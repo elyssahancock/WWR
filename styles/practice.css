@@ -1,0 +1,23 @@
+body{
+    font-size: 30px;
+}
+img{
+    display: block;
+    width: 75%;
+    border: 5px solid red;
+    margin: 0 auto;
+}
+h1,p{
+    border: 5px solid blue;
+    text-align: center;
+}
+p{
+    font-size: 2em;
+}
+
+div p{
+    background-color: brown;
+}
+div p:hover{
+    background-color: cornflowerblue;
+}
