@@ -108,7 +108,7 @@ footer h3 a:hover{
 }
 .home-title{
     font-size: 2em;
-    font-family: "Fugaz One";
+    font-family: "Fugaz One", Arial, Helvetica, sans-serif;
     margin-top: 10px;
 }
 .book, .join{
